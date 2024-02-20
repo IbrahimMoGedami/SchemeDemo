@@ -1,0 +1,36 @@
+PODS:
+  - Hero (1.6.3)
+  - IQKeyboardManagerSwift (6.5.16)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Reachability (3.2)
+  - SDWebImage (5.18.3):
+    - SDWebImage/Core (= 5.18.3)
+  - SDWebImage/Core (5.18.3)
+
+DEPENDENCIES:
+  - Hero
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - Reachability
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - Reachability
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Hero: 419d43384355b3168512bd8ac6a33aadd3dc575b
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 96e0c18ef14010b7485210e92fac888587ebb958
+
+PODFILE CHECKSUM: d14abd5ed5e68798b568caaf8d7f22f9e5f503cd
+
+COCOAPODS: 1.13.0

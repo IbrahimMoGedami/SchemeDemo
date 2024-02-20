@@ -1,0 +1,11 @@
+//
+//  ProdConfig.xcconfig
+//  SchemeDemo
+//
+//  Created by Ibrahim Mo Gedami on 2/17/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+serverULR = "www.youtube.com/api/login"
